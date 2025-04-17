@@ -60,7 +60,7 @@ To create Sales and Finance Analytics Reports, aimed at extracting decision-maki
 
         ° Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
-  ÷° Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+   ° Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
    ° Importance of analyzing Finance data: Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
@@ -77,7 +77,7 @@ To create Sales and Finance Analytics Reports, aimed at extracting decision-maki
 
 # Soft Skills Gained:
 
-    ✔  Refined understanding of Sales & Finance Reports
+    ✔ Refined understanding of Sales & Finance Reports
     ✔ Designing user-centric reports with empathy in mind.
     ✔ Optimization of report generation through meticulous fine-tuning.
     ✔ Developing a systematic approach to devising a report building plan.
