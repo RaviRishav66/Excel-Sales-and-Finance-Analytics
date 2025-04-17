@@ -39,28 +39,24 @@ To create Sales and Finance Analytics Reports, aimed at extracting decision-maki
 
 # Financial Analysis Reports
 
-   1. Customer Net Sales Performance Report (https://github.com/RaviRishav66/Excel-Sales-and-Finance- 
-     Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/Customer%20Net%20Sales%20Performance.pdf)
+   1. Customer Net Sales Performance Report (https://github.com/RaviRishav66/Excel-Sales-and-Finance-Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/Customer%20Net%20Sales%20Performance.pdf)
+    
+       ° Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
 
-      ° Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
-
-   2. Market Performance vs. Sales Targets Comparison (https://github.com/RaviRishav66/Excel-Sales-and-Finance- 
-      Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/Market_performance_vs_target.pdf)
+   2. Market Performance vs. Sales Targets Comparison (https://github.com/RaviRishav66/Excel-Sales-and-Finance-Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/Market_performance_vs_target.pdf)
 
        ° Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
 
-   3. Yearly Profit and Loss (P&L) Report (https://github.com/RaviRishav66/Excel-Sales-and-Finance- 
-      Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+   3. Yearly Profit and Loss (P&L) Report (https://github.com/RaviRishav66/Excel-Sales-and-Finance-Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+
 
         ° Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 
-   4. Quarterly Profit and Loss (P&L) Comparison (https://github.com/RaviRishav66/Excel-Sales-and-Finance- 
-      Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/P%26L%20Statement%20by%20Fiscal%20Months.pdf)
+   4. Quarterly Profit and Loss (P&L) Comparison (https://github.com/RaviRishav66/Excel-Sales-and-Finance-Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/P%26L%20Statement%20by%20Fiscal%20Months.pdf)
 
         ° Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
 
-   5. Market-Specific Profit and Loss (P&L) Report (https://github.com/RaviRishav66/Excel-Sales-and-Finance- 
-      Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/P%26L%20Statement%20for%20Markets.pdf)
+   5. Market-Specific Profit and Loss (P&L) Report https://github.com/RaviRishav66/Excel-Sales-and-Finance-Analytics/blob/eef1d782f7d6ce8bd09f9566449e00a113ce867c/P%26L%20Statement%20for%20Markets.pdf)
 
         ° Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
@@ -72,16 +68,16 @@ To create Sales and Finance Analytics Reports, aimed at extracting decision-maki
   
 # Technical Skills Gained:
 
-   ✔ Proficiency in ETL methodology (Extract, Transform, Load).
-   ✔ Skills to generate a date table using Power Query.
-   ✔ Ability to derive fiscal months and quarters.
-   ✔ Establishing data model relationships with Power Pivot.
-   ✔ Proficiency in incorporating supplementary data into an existing data model.
-   ✔ Utilizing DAX to create calculated columns.
+    ✔ Proficiency in ETL methodology (Extract, Transform, Load).
+    ✔ Skills to generate a date table using Power Query.
+    ✔ Ability to derive fiscal months and quarters.
+    ✔ Establishing data model relationships with Power Pivot.
+    ✔ Proficiency in incorporating supplementary data into an existing data model.
+    ✔ Utilizing DAX to create calculated columns.
 
 # Soft Skills Gained:
 
-   ✔ Refined understanding of Sales & Finance Reports
-   ✔ Designing user-centric reports with empathy in mind.
-   ✔ Optimization of report generation through meticulous fine-tuning.
-   ✔ Developing a systematic approach to devising a report building plan.
+    ✔  Refined understanding of Sales & Finance Reports
+    ✔ Designing user-centric reports with empathy in mind.
+    ✔ Optimization of report generation through meticulous fine-tuning.
+    ✔ Developing a systematic approach to devising a report building plan.
